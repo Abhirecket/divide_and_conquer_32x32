@@ -1,0 +1,6 @@
+verilog xil_defaultlib --include "../../../../divide_and_conquer_32x32.gen/sources_1/ip/ila_0/hdl/verilog" \
+"../../../../divide_and_conquer_32x32.gen/sources_1/ip/ila_0/sim/ila_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
